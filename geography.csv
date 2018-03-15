@@ -27,6 +27,4 @@ city,city_eng,time_wrt_utc,fed_subject,fed_dist,dist_from_moscow
 Томск,Tomsk,7,Tomsk Oblast,Siberia,3618
 Красноярск,Krasnoyarsk,7,Krasnoyarsk Krai,Siberia,4145
 Якутск,Yakutsk,9,Sakha Republic,Far East,8395
-Интернет-магазин,Online store,-1,NA,NA,-1
-Цифровой,Digital,-1,NA,NA,-1
-Выездная,Traveling,-1,NA,NA,-1
+no_city,Online store,NA,NA,NA,NA
